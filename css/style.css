@@ -299,6 +299,19 @@ header.shadow .logo{
     text-align: justify;
 }
 
+.reference{
+    font-size: 1rem;
+    color: var(--text-color);
+}
+
+.reference-text{
+    font-size: 0.8rem;
+    line-height: 1rem;
+    margin: 1rem 0;
+    text-align: justify;
+}
+
+
 .share{
     display: flex;
     flex-direction: column;
