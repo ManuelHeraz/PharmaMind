@@ -275,6 +275,7 @@ header.shadow .logo{
     color: var(--bg-color);
     text-align: center;
     margin-top: 1rem;
+    white-space: nowrap;
 }
 
 .header-img {
